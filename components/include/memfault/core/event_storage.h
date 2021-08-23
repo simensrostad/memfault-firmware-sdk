@@ -22,6 +22,8 @@
 #include <stddef.h>
 #include <stdint.h>
 
+#include "memfault/core/event_storage_implementation.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
